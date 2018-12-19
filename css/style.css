@@ -1,0 +1,173 @@
+body, html {
+	height: 100%
+	width:100%;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	color: #bf9b30;
+}
+
+.row-colour {
+	background-color: #ffe3e3;
+}
+
+
+div.hero-image {
+	background-image: url("../images/img22.png");
+	height: 800px;
+	width: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative
+	
+}
+
+div.hero-text{
+	width: 100%;
+	
+	color: white;
+	position: absolute;
+  	top: 38%;
+  	margin-top: -50px;
+	
+}
+div.hero-text a button {
+	color: black;
+	border-color: #bf9b30;
+	background-color: #bf9b30;
+}
+
+div.hero1-image {
+	background-image: url("../images/img20.png");
+	height: 559px;
+	background-position: center;
+	background-size: cover;
+	width: 439px;
+}
+
+div.hero2-image {
+	background-image: url("../images/img18.png");
+	height: 559px;
+	background-position: center;
+	background-size: cover;
+	width: 439px;
+}
+
+div.hero3-image {
+	background-image: url("../images/img19.png");
+	height: 559px;
+	background-position: center;
+	background-size: cover;
+	width: 439px;
+}
+
+div.hero4-image {
+	background-image: url("../images/img16.png");
+	height: 350px;
+	background-position: center;
+	background-size: cover;
+	width: 25%;
+}
+
+div.hero5-image {
+	background-image: url("../images/img9.png");
+	height: 350px;
+	background-position: center;
+	background-size: cover;
+	width: 25%;
+}
+
+div.hero6-image {
+	background-image: url("../images/img7.jpeg");
+	height: 350px;
+	background-position: center;
+	background-size: cover;
+	width: 25%;
+}
+
+div.hero7-image {
+	background-image: url("../images/img17.png");
+	height: 350px;
+	background-position: center;
+	background-size: cover;
+	width: 25%;
+}
+
+.image-move {
+	top: left;
+	position: relative;
+}
+
+.sign {
+	background-color: yellow
+}
+
+div.hero8-image {
+	background-image: url("../images/img26.png");
+	height: 488px;
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+}
+
+div.hero9-image {
+	background-image: url("../images/img27.png");
+	height: 500px;
+	width: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative
+	
+}
+
+div.hero9-text{
+	width: 100%;
+	
+	color: white;
+	position: absolute;
+  	top: 38%;
+  	margin-top: -50px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
